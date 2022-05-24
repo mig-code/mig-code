@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @mig-code
-- 👀 I’m interested in find my first job as a junior developer
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on javascript projects
-- 📫 How to reach me https://twitter.com/Mig_bthlin
+- 📫 How to reach me https://twitter.com/Mig_code
 - GithubPages:
 - https://mig-code.github.io/money-test/
 - https://mig-code.github.io/password-generator/
