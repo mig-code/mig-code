@@ -1,9 +1,9 @@
 
 # Hi, I'm Miguel! 👋
 
-A Front End Developer based in Spain looking for my first role.
+A Front End Developer based in Spain.
 
-Currently I´m studying at Scrimba and learning React
+Recently I finished the FRONT END DEVELOPER PATH at Scrimba. and now I am taking a FrontEnd Developer Bootcamp at ISDI CODERS
 
 [![Mig-Code GitHub stats](https://github-readme-stats.vercel.app/api?username=mig-code)](https://github.com/mig-code/)
 
