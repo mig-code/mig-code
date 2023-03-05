@@ -4,7 +4,7 @@
 
 ### A Front End Developer based in Spain.
 
-Front End Programmer specialized in React, with strong skills in HTML, CSS, and JavaScript.
+Developer specialized in React, with strong skills in HTML, CSS, and JavaScript.
 I enjoy using TypeScript and testing to ensure code quality and improve scalability.
 
 
